@@ -10,20 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Run build script
         run: python build.py
-
-    - name: Commit and push updated index.html
+      - name: Commit and push updated index.html
         run: |
           git config --global user.name "ReadLikeRay Bot"
           git config --global user.email "bot@readlikeray.com"
