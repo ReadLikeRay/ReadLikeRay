@@ -25,10 +25,11 @@ jobs:
       - name: Run build script
         run: python build.py
 
-      - name: Commit and push updated index.html
+   - name: Commit and push updated index.html
         run: |
           git config --global user.name "ReadLikeRay Bot"
           git config --global user.email "bot@readlikeray.com"
+          git pull --rebase
           git add index.html
           git diff --staged --quiet || git commit -m "Day $(date +%Y-%m-%d): Daily reading update"
           git push
