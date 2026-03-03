@@ -1,0 +1,680 @@
+{
+  "project_start": "2026-04-01",
+  "days": [
+    {
+      "day": 1,
+      "poem": {
+        "title": "Song of Myself, §1–6",
+        "author": "Walt Whitman",
+        "year": "1855",
+        "desc": "Whitman invented a new American rhythm. Read aloud — don't analyze, feel the pulse. These opening sections establish his central idea: the self is large enough to contain everything. The grass is his symbol for democracy, for the body, for death absorbed into life.",
+        "link": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm"
+      },
+      "story": {
+        "title": "Hands",
+        "author": "Sherwood Anderson",
+        "year": "1919",
+        "desc": "The first story in Winesburg, Ohio and one of the best in American literature. A man destroyed by a misunderstanding told entirely through what his hands do. Read it twice. The second read changes everything.",
+        "link": "https://www.gutenberg.org/ebooks/416"
+      },
+      "essay": {
+        "title": "On Experience",
+        "author": "Michel de Montaigne",
+        "year": "1588",
+        "desc": "Montaigne's last and greatest essay. He invented the personal essay — a mind following its own associations, doubling back, contradicting itself, arriving somewhere unexpected. This is about how to live. Written in 1588 and hasn't aged a day.",
+        "link": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "prompt": "Write 10 lines about yourself, each starting with \"I.\" Be specific. Not \"I feel lonely\" but \"I eat dinner standing over the sink.\" Give the thing, not the feeling."
+    },
+    {
+      "day": 2,
+      "poem": {
+        "title": "Song of Myself, §7–14",
+        "author": "Walt Whitman",
+        "year": "1855",
+        "desc": "Notice how Whitman moves between the cosmic and the ordinary — a blade of grass, a child's question, a slave auction. He treats everything as equally worthy of attention. This is a writerly lesson as much as a poetic one.",
+        "link": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm"
+      },
+      "story": {
+        "title": "Adventure",
+        "author": "Sherwood Anderson",
+        "year": "1919",
+        "desc": "A woman who waits her whole life for a man who never returns. Anderson compresses decades into a few pages. The loneliness is in what goes unsaid — every story's real subject lives below the surface.",
+        "link": "https://www.gutenberg.org/ebooks/416"
+      },
+      "essay": {
+        "title": "On the Art of Conversation",
+        "author": "Michel de Montaigne",
+        "year": "1588",
+        "desc": "Montaigne argues that good conversation requires the willingness to be wrong. Watch how his mind moves — he starts with one idea and follows it wherever it leads, even when it contradicts what he said before.",
+        "link": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "prompt": "Describe one ordinary object as if it contains the universe. One paragraph. No abstractions — only what you can see, touch, hear."
+    },
+    {
+      "day": 3,
+      "poem": {
+        "title": "Song of Myself, §15–24",
+        "author": "Walt Whitman",
+        "year": "1855",
+        "desc": "Section 15 is a catalogue of American workers — one of the most exhilarating passages in English. Section 24 is Whitman at his most bodily and defiant. The famous barbaric yawp arrives in §52.",
+        "link": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm"
+      },
+      "story": {
+        "title": "The Jilting of Granny Weatherall",
+        "author": "Katherine Anne Porter",
+        "year": "1930",
+        "desc": "A dying woman's stream of consciousness drifting between the present and eighty years of memory. The past is more vivid than the present. No clear transitions — you find your footing the way she loses hers.",
+        "link": "https://www.gutenberg.org/ebooks/50216"
+      },
+      "essay": {
+        "title": "A Piece of Chalk",
+        "author": "G.K. Chesterton",
+        "year": "1905",
+        "desc": "Chesterton starts with a piece of chalk and ends at original sin and the color white. This is the essayist's trick: the ordinary is always a door. Notice how far he travels from his starting point without losing the thread.",
+        "link": "https://www.gutenberg.org/ebooks/11505"
+      },
+      "prompt": "Write a catalogue of 15 people you've seen this week. One vivid sentence each. No names needed — just what you noticed."
+    },
+    {
+      "day": 4,
+      "poem": {
+        "title": "Fern Hill",
+        "author": "Dylan Thomas",
+        "year": "1945",
+        "desc": "A poem about childhood written in ecstatic grief. Thomas writes about what was lost by making it overwhelmingly present. Read it aloud three times — something shifts each time. The joy and the elegy are the same thing.",
+        "link": "https://poets.org/poet/dylan-thomas"
+      },
+      "story": {
+        "title": "A Worn Path",
+        "author": "Eudora Welty",
+        "year": "1941",
+        "desc": "An old woman walks miles through the woods to get medicine for her grandson. That is the entire plot. And it is devastating. The journey is the story — the external path mirrors something internal that Welty never names.",
+        "link": "https://www.gutenberg.org/ebooks/50216"
+      },
+      "essay": {
+        "title": "On Running After One's Hat",
+        "author": "G.K. Chesterton",
+        "year": "1908",
+        "desc": "Chesterton argues that optimism is a form of adventure — even chasing your hat in the wind is an opportunity for heroism if you choose to see it that way. His essays make ordinary irritations feel cosmic.",
+        "link": "https://www.gutenberg.org/ebooks/11505"
+      },
+      "prompt": "Write about your childhood home using only color, sound, and movement. Name no emotions directly. Let the images do it."
+    },
+    {
+      "day": 5,
+      "poem": {
+        "title": "Do Not Go Gentle Into That Good Night",
+        "author": "Dylan Thomas",
+        "year": "1951",
+        "desc": "A villanelle — a rigid form Thomas turns into a roar. Written for his dying father. Read it at full volume. The repetition is not decoration; it is fury. This is a poem that fights.",
+        "link": "https://poets.org/poet/dylan-thomas"
+      },
+      "story": {
+        "title": "The Chrysanthemums",
+        "author": "John Steinbeck",
+        "year": "1937",
+        "desc": "A woman's inner life is briefly touched by a traveling stranger, then crushed. Nothing dramatic happens on the surface. Everything is in the chrysanthemums. Read once for the story. Then go back and track every time the flowers appear.",
+        "link": "https://www.gutenberg.org/ebooks/50216"
+      },
+      "essay": {
+        "title": "How to Keep and Feed a Muse",
+        "author": "Ray Bradbury",
+        "year": "1961",
+        "desc": "Bradbury explains his method: read everything, live fully, then write from the collision. The muse isn't inspiration — it's the accumulated residue of everything you've loved. This essay is the argument for everything you're doing right now.",
+        "link": ""
+      },
+      "prompt": "Write one page on something you fear. Use only metaphors. Never name the fear directly — only what it looks like, sounds like, does to a room."
+    },
+    {
+      "day": 6,
+      "poem": {
+        "title": "God's Grandeur + The Windhover + Pied Beauty",
+        "author": "Gerard Manley Hopkins",
+        "year": "1877",
+        "desc": "Hopkins invented sprung rhythm — a compression of sound so dense it crackles. Bradbury considered The Windhover among the greatest 14 lines in English. Pied Beauty is a hymn to the irregular, the strange, the dappled. Read all three aloud.",
+        "link": "https://www.gutenberg.org/ebooks/22403"
+      },
+      "story": {
+        "title": "The Tell-Tale Heart",
+        "author": "Edgar Allan Poe",
+        "year": "1843",
+        "desc": "A narrator arguing for his sanity while condemning himself with every sentence. Notice the rhythm — short, percussive, building. The form enacts the madness. Poe understood that how you tell a story is what you're actually telling.",
+        "link": "https://www.gutenberg.org/ebooks/2148"
+      },
+      "essay": {
+        "title": "Self-Reliance",
+        "author": "Ralph Waldo Emerson",
+        "year": "1841",
+        "desc": "Trust yourself. Don't imitate. \"Envy is ignorance; imitation is suicide.\" Dense and demanding — read slowly. This is the philosophical foundation beneath Whitman, Thoreau, and most of American literature.",
+        "link": "https://www.gutenberg.org/ebooks/16643"
+      },
+      "prompt": "Write a paragraph praising something ugly, broken, or overlooked. Make it beautiful. Don't apologize for the subject."
+    },
+    {
+      "day": 7,
+      "poem": {
+        "title": "Because I could not stop for Death + I heard a Fly buzz",
+        "author": "Emily Dickinson",
+        "year": "1863",
+        "desc": "Two death poems. In the first, Death is a gentleman caller taking her for a carriage ride. In the second, dying is interrupted by a fly. Dickinson makes the enormous feel ordinary — that is her whole method and her whole power.",
+        "link": "https://www.gutenberg.org/ebooks/12242"
+      },
+      "story": {
+        "title": "The Cask of Amontillado",
+        "author": "Edgar Allan Poe",
+        "year": "1846",
+        "desc": "A man lures his enemy into a wine cellar and walls him in alive. Told as a confession fifty years later. Notice what Poe never explains — the original insult, any guilt. The silence is where the horror lives.",
+        "link": "https://www.gutenberg.org/ebooks/2148"
+      },
+      "essay": {
+        "title": "Walking",
+        "author": "Henry David Thoreau",
+        "year": "1862",
+        "desc": "Thoreau argues that sauntering — truly wandering without destination — is essential to a healthy mind. He walked four hours every day. This essay is a defense of useless time and an attack on the life most people live by accident.",
+        "link": "https://www.gutenberg.org/ebooks/1022"
+      },
+      "prompt": "Write an 8-line poem about something that happened this week. Don't explain it. Show it sideways, the way Dickinson would."
+    },
+    {
+      "day": 8,
+      "poem": {
+        "title": "Tell all the truth but tell it slant + The Brain is wider than the Sky",
+        "author": "Emily Dickinson",
+        "year": "1868",
+        "desc": "Tell it slant is Dickinson's own poetic manifesto in 8 lines — the argument for indirection in art. The Brain is wider than the Sky makes its claim head-on. Read both as arguments about what literature is for.",
+        "link": "https://www.gutenberg.org/ebooks/12242"
+      },
+      "story": {
+        "title": "Prometheus",
+        "author": "Thomas Bulfinch",
+        "year": "1855",
+        "desc": "A Titan steals fire from the gods and gives it to humans. He is chained to a rock and has his liver eaten daily forever. Every story about someone punished for giving people something they weren't supposed to have is this story.",
+        "link": "https://www.gutenberg.org/ebooks/4928"
+      },
+      "essay": {
+        "title": "Nature (opening sections)",
+        "author": "Ralph Waldo Emerson",
+        "year": "1836",
+        "desc": "\"In the woods, we return to reason and faith.\" Emerson's first major work — a defense of direct experience over received wisdom. Notice how he builds his argument from close observation outward to the transcendent.",
+        "link": "https://www.gutenberg.org/ebooks/29433"
+      },
+      "prompt": "Retell the Prometheus myth in a fully modern setting. One page. Don't explain the parallel — just write the scene and trust the reader."
+    },
+    {
+      "day": 9,
+      "poem": {
+        "title": "Much Madness is divinest Sense + Hope is the thing with feathers",
+        "author": "Emily Dickinson",
+        "year": "1862",
+        "desc": "Much Madness argues that the majority decides what sanity means — and they're wrong. Hope is the thing with feathers is one of the most compressed and complete metaphors in English. She never breaks the bird image. Not once.",
+        "link": "https://www.gutenberg.org/ebooks/12242"
+      },
+      "story": {
+        "title": "Orpheus and Eurydice",
+        "author": "Thomas Bulfinch",
+        "year": "1855",
+        "desc": "A musician descends to the underworld to retrieve his dead wife. He wins her back on one condition: don't look back. He looks back. Every story about someone who destroys what they love most by needing to verify it is this story.",
+        "link": "https://www.gutenberg.org/ebooks/4928"
+      },
+      "essay": {
+        "title": "Civil Disobedience",
+        "author": "Henry David Thoreau",
+        "year": "1849",
+        "desc": "Written after Thoreau was jailed for refusing to pay taxes supporting slavery. When law is unjust, the just person must refuse. This essay influenced Gandhi and Martin Luther King Jr. directly — ideas have consequences across centuries.",
+        "link": "https://www.gutenberg.org/ebooks/71"
+      },
+      "prompt": "Map the Orpheus myth onto your own life. Where were the monsters? The impossible task? The moment you looked back when you shouldn't have?"
+    },
+    {
+      "day": 10,
+      "poem": {
+        "title": "anyone lived in a pretty how town + in Just-",
+        "author": "e.e. cummings",
+        "year": "1940",
+        "desc": "Anyone lived in a pretty how town tells a whole human life in the span of seasons using grammatical inversions that force you to feel time differently. In Just- is spring arriving as a goat-footed balloon man. Cummings breaks grammar to make you feel syntax.",
+        "link": "https://www.poetryfoundation.org/poets/e-e-cummings"
+      },
+      "story": {
+        "title": "Perseus",
+        "author": "Thomas Bulfinch",
+        "year": "1855",
+        "desc": "A hero born of impossible circumstances, given divine tools, sent on an impossible task, succeeds. Every adventure story you've ever loved is built on this architecture. Read it as structure, not just story.",
+        "link": "https://www.gutenberg.org/ebooks/4928"
+      },
+      "essay": {
+        "title": "On Friendship",
+        "author": "Ralph Waldo Emerson",
+        "year": "1841",
+        "desc": "Emerson argues that true friendship is almost impossible — it requires two people who are each complete in themselves, who ask nothing of each other. A hard and honest essay that will make you examine every relationship you have.",
+        "link": "https://www.gutenberg.org/ebooks/16643"
+      },
+      "prompt": "Write one paragraph with no punctuation whatsoever. Make rhythm do the work of the missing marks."
+    },
+    {
+      "day": 11,
+      "poem": {
+        "title": "i carry your heart + somewhere i have never travelled",
+        "author": "e.e. cummings",
+        "year": "1952",
+        "desc": "Two love poems. i carry your heart ends with one of the most beautiful lines in American poetry. somewhere i have never travelled uses physical description — hands, eyes, fingers — to describe something entirely interior. He never uses the word love.",
+        "link": "https://www.poetryfoundation.org/poets/e-e-cummings"
+      },
+      "story": {
+        "title": "Oedipus Rex",
+        "author": "Sophocles",
+        "year": "429 BC",
+        "desc": "A detective story in which the detective is the murderer. Read in one sitting — about 90 minutes. The plot twist lands after 2,500 years because Sophocles built toward it with perfect dramatic irony. We know more than Oedipus. It is unbearable.",
+        "link": "https://www.gutenberg.org/ebooks/31"
+      },
+      "essay": {
+        "title": "Economy (opening chapters, Walden)",
+        "author": "Henry David Thoreau",
+        "year": "1854",
+        "desc": "Thoreau went to the woods to live deliberately. The opening of Walden is a sustained argument against the life most people live without choosing it. Prickly, funny, arrogant, and largely correct.",
+        "link": "https://www.gutenberg.org/ebooks/205"
+      },
+      "prompt": "Write a scene in which the reader knows something terrible that the character doesn't. Build the dread slowly through ordinary detail."
+    },
+    {
+      "day": 12,
+      "poem": {
+        "title": "Buffalo Bill's defunct",
+        "author": "e.e. cummings",
+        "year": "1920",
+        "desc": "Eleven lines that compress an entire American myth, ending with a question addressed directly to Death. cummings makes grief feel like speed. Read it until the spacing starts to feel like intention rather than accident — because it is.",
+        "link": "https://www.poetryfoundation.org/poets/e-e-cummings"
+      },
+      "story": {
+        "title": "Antigone",
+        "author": "Sophocles",
+        "year": "441 BC",
+        "desc": "A woman buries her brother against the king's law and accepts death for it. The tragedy is that both sides are right. There is no villain. Write down who you think is right before the end. You may change your mind.",
+        "link": "https://www.gutenberg.org/ebooks/31"
+      },
+      "essay": {
+        "title": "The American Scholar",
+        "author": "Ralph Waldo Emerson",
+        "year": "1837",
+        "desc": "Emerson's declaration of intellectual independence — America needed to stop imitating Europe and start thinking for itself. Replace \"America\" with your own name and it reads as a personal manifesto.",
+        "link": "https://www.gutenberg.org/ebooks/16643"
+      },
+      "prompt": "Write a scene where two characters are both completely right and completely opposed. No resolution. Let it sit unresolved at the end."
+    },
+    {
+      "day": 13,
+      "poem": {
+        "title": "The Force That Through the Green Fuse + Poem in October",
+        "author": "Dylan Thomas",
+        "year": "1934",
+        "desc": "The Force That Through the Green Fuse connects the speaker's body to all natural forces — the same energy destroys and creates. Poem in October is Thomas's birthday poem, one of his most joyful. Read both aloud at full volume.",
+        "link": "https://poets.org/poet/dylan-thomas"
+      },
+      "story": {
+        "title": "Job, Chapters 1–14",
+        "author": "The Bible (KJV)",
+        "year": "500 BC",
+        "desc": "A man loses everything. His friends insist he must have sinned. He insists he hasn't. The Book of Job is the most honest book ever written about suffering and the silence of the universe. Read it as story, not sermon.",
+        "link": "https://www.gutenberg.org/ebooks/10"
+      },
+      "essay": {
+        "title": "On Liars",
+        "author": "Michel de Montaigne",
+        "year": "1580",
+        "desc": "Montaigne traces his own terrible memory and from it builds an essay about lying, truth-telling, and what honesty actually costs. One of his shorter essays and one of his most personal — a mind examining itself without mercy.",
+        "link": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "prompt": "Write a monologue arguing with God, fate, or the universe. Make the speaker angry. Make them right. Don't let the universe answer."
+    },
+    {
+      "day": 14,
+      "poem": {
+        "title": "After great pain, a formal feeling comes + I'm Nobody! Who are you?",
+        "author": "Emily Dickinson",
+        "year": "1862",
+        "desc": "After great pain is about the strange numbness that follows grief — one of the most accurate descriptions of trauma in literature. I'm Nobody is wry and defiant. Two completely different Dickinsons in eight lines each.",
+        "link": "https://www.gutenberg.org/ebooks/12242"
+      },
+      "story": {
+        "title": "Job, Chapters 15–31",
+        "author": "The Bible (KJV)",
+        "year": "500 BC",
+        "desc": "The friends make their case more aggressively. Job refuses to confess to sins he didn't commit. His arguments become increasingly desperate and beautiful. The poetry here is some of the greatest in any language.",
+        "link": "https://www.gutenberg.org/ebooks/10"
+      },
+      "essay": {
+        "title": "On Solitude",
+        "author": "Michel de Montaigne",
+        "year": "1580",
+        "desc": "Montaigne argues we must retreat into ourselves regularly — not to escape people, but to develop an inner life truly our own. Written after he retired from public life at 38 to read, think, and write in his tower.",
+        "link": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "prompt": "Write about a time you refused to apologize when everyone around you insisted you should. One page. Be honest about both sides."
+    },
+    {
+      "day": 15,
+      "poem": {
+        "title": "Song of Myself, §25–38",
+        "author": "Walt Whitman",
+        "year": "1855",
+        "desc": "Return to Whitman. After two weeks of compressed, formal poets, his expansiveness will feel different — you'll hear things you missed the first time. The barbaric yawp is coming in §52. Notice how he builds toward it.",
+        "link": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm"
+      },
+      "story": {
+        "title": "Job, Chapters 38–42 (God from the Whirlwind)",
+        "author": "The Bible (KJV)",
+        "year": "500 BC",
+        "desc": "God finally speaks — not to answer Job, but to overwhelm him with the scale of creation. Where were you when I laid the foundations of the earth? The most powerful non-answer in literature. Job accepts it. That is the mystery.",
+        "link": "https://www.gutenberg.org/ebooks/10"
+      },
+      "essay": {
+        "title": "Compensation",
+        "author": "Ralph Waldo Emerson",
+        "year": "1841",
+        "desc": "Everything has a cost. Everything. Emerson argues the universe balances its books perfectly — no gain without an equal loss somewhere. This essay will change how you think about luck, success, and suffering.",
+        "link": "https://www.gutenberg.org/ebooks/16643"
+      },
+      "prompt": "Write one page trying to answer Job's question in your own words: why do people suffer who don't deserve it? Don't resolve it neatly."
+    },
+    {
+      "day": 16,
+      "poem": {
+        "title": "I Sing the Body Electric, §1–4",
+        "author": "Walt Whitman",
+        "year": "1855",
+        "desc": "Whitman's hymn to the human body. He lists body parts not as anatomy but as sacred objects. This poem was radical in 1855 and still surprises. Whitman believed the body and soul were not in conflict — they were the same thing.",
+        "link": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm"
+      },
+      "story": {
+        "title": "The Necklace",
+        "author": "Guy de Maupassant",
+        "year": "1884",
+        "desc": "A woman borrows a diamond necklace, loses it, and spends her life paying off the debt to replace it — only to discover the necklace was costume jewelry. A structurally perfect story. Feel the trap clicking shut.",
+        "link": "https://www.gutenberg.org/ebooks/3090"
+      },
+      "essay": {
+        "title": "On Friendship (La Boétie)",
+        "author": "Michel de Montaigne",
+        "year": "1580",
+        "desc": "Montaigne's essay on his friendship with Étienne de La Boétie, who died young. The most famous line: \"Because it was him; because it was me.\" An essay about the kind of connection that genuinely cannot be explained.",
+        "link": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "prompt": "Write about your closest friendship in three scenes. Don't explain why you're friends. Show three moments and let them speak."
+    },
+    {
+      "day": 17,
+      "poem": {
+        "title": "Out of the Cradle Endlessly Rocking",
+        "author": "Walt Whitman",
+        "year": "1859",
+        "desc": "A boy on a beach watches two mockingbirds; one disappears. He realizes death exists. It's Whitman's most operatic poem and one of his greatest — the repetition is doing structural and emotional work simultaneously. Read slowly.",
+        "link": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm"
+      },
+      "story": {
+        "title": "The Gift of the Magi",
+        "author": "O. Henry",
+        "year": "1905",
+        "desc": "A husband and wife each sacrifice their most precious possession to buy the other a Christmas gift — and each gift makes the other's sacrifice useless. The irony is the whole point, and yet it's genuinely moving. How does sentiment work here when it shouldn't?",
+        "link": "https://www.gutenberg.org/ebooks/7256"
+      },
+      "essay": {
+        "title": "Spiritual Laws",
+        "author": "Ralph Waldo Emerson",
+        "year": "1841",
+        "desc": "Emerson argues that talent finds its own outlet — the right vocation is one you can't not do. \"Do your work and you shall reinforce yourself.\" One of his most hopeful essays and one of his most demanding.",
+        "link": "https://www.gutenberg.org/ebooks/16643"
+      },
+      "prompt": "Write a scene where two people give each other something. Show what the giving costs each of them. Don't name the emotion."
+    },
+    {
+      "day": 18,
+      "poem": {
+        "title": "When Lilacs Last in the Dooryard Bloom'd, §1–8",
+        "author": "Walt Whitman",
+        "year": "1865",
+        "desc": "Whitman's elegy for Lincoln. Three symbols — the lilac, the fallen star, the hermit thrush — weave through the whole poem. This is grief handled through beauty rather than statement. Read slowly and track the three symbols.",
+        "link": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm"
+      },
+      "story": {
+        "title": "To Build a Fire",
+        "author": "Jack London",
+        "year": "1908",
+        "desc": "A man and a dog travel through the Yukon in extreme cold. The man makes a series of small, fatal errors. London tells it in third person — the narrator never panics, never judges. The cold is simply the cold. One of the great naturalist stories.",
+        "link": "https://www.gutenberg.org/ebooks/910"
+      },
+      "essay": {
+        "title": "On Cannibals",
+        "author": "Michel de Montaigne",
+        "year": "1580",
+        "desc": "Montaigne encounters descriptions of peoples from the New World and turns the argument around: who are the real barbarians? This essay invented cultural relativism in 1580. He was asking questions most people still haven't caught up to.",
+        "link": "https://www.gutenberg.org/ebooks/3600"
+      },
+      "prompt": "Write about a time nature was indifferent to you. Make the indifference the point — don't rescue the scene with meaning at the end."
+    },
+    {
+      "day": 19,
+      "poem": {
+        "title": "The Raven",
+        "author": "Edgar Allan Poe",
+        "year": "1845",
+        "desc": "Read it aloud — the meter is everything. Poe designed the sound before he designed the meaning. He later wrote an essay called The Philosophy of Composition explaining exactly how he built it. Tonight read the poem; tomorrow read the essay.",
+        "link": "https://www.gutenberg.org/ebooks/17192"
+      },
+      "story": {
+        "title": "The Yellow Wallpaper",
+        "author": "Charlotte Perkins Gilman",
+        "year": "1892",
+        "desc": "A woman prescribed rest cure for nervous exhaustion slowly loses her mind staring at the wallpaper. A horror story and a feminist argument simultaneously. The prose enacts the deterioration — watch how the sentences change.",
+        "link": "https://www.gutenberg.org/ebooks/1952"
+      },
+      "essay": {
+        "title": "The Philosophy of Composition",
+        "author": "Edgar Allan Poe",
+        "year": "1846",
+        "desc": "Poe claims to explain exactly how he wrote The Raven — every decision calculated in advance. Whether you believe him or not, this essay forces you to think about craft consciously. What effect did you want? How did you engineer it?",
+        "link": "https://www.poetryfoundation.org/articles/69390/the-philosophy-of-composition"
+      },
+      "prompt": "Write one page from the point of view of someone losing their grip on reality. Tell it in calm, logical, completely reasonable prose."
+    },
+    {
+      "day": 20,
+      "poem": {
+        "title": "Annabel Lee + Ulalume",
+        "author": "Edgar Allan Poe",
+        "year": "1849",
+        "desc": "Annabel Lee is Poe's last poem — obsessive, musical, refusing to accept death as final. Ulalume is stranger, a dream-logic poem about grief. Both are built on sound more than sense. Read them as music before you read them as meaning.",
+        "link": "https://www.gutenberg.org/ebooks/17192"
+      },
+      "story": {
+        "title": "The Lottery",
+        "author": "Shirley Jackson",
+        "year": "1948",
+        "desc": "A small town prepares for its annual lottery. The story reveals its horror slowly in plain declarative sentences. Jackson never raises her voice. The mundane surface makes the violence more disturbing than any amount of description could.",
+        "link": "https://www.gutenberg.org/ebooks/50216"
+      },
+      "essay": {
+        "title": "Once More to the Lake",
+        "author": "E.B. White",
+        "year": "1941",
+        "desc": "White takes his son to the lake where he vacationed as a child and realizes, at the end, that he is now the father — and what that means. The final sentence is one of the great endings in American prose. It will stay with you.",
+        "link": ""
+      },
+      "prompt": "Write a scene of group behavior that is completely normal on the surface and disturbing underneath. Never acknowledge the disturbance."
+    },
+    {
+      "day": 21,
+      "poem": {
+        "title": "Crossing Brooklyn Ferry",
+        "author": "Walt Whitman",
+        "year": "1856",
+        "desc": "Whitman addresses the people who will cross the Brooklyn Ferry in 100 years — and realizes he is speaking to us now. He was right. The poem collapses time. He knows you will read this and that you are part of the crowd he imagined.",
+        "link": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm"
+      },
+      "story": {
+        "title": "The Secret Life of Walter Mitty",
+        "author": "James Thurber",
+        "year": "1939",
+        "desc": "A meek man fantasizes about heroism while running errands with his wife. Funny and sad at the same time. The gap between who we imagine ourselves to be and who we actually are — Thurber makes it visible in five pages.",
+        "link": ""
+      },
+      "essay": {
+        "title": "Here Is New York",
+        "author": "E.B. White",
+        "year": "1949",
+        "desc": "White's meditation on what makes a city, what anonymity does to a person, and what it means to belong somewhere. Written in 1948, it ends with a premonition of September 11th that will leave you unsettled for days.",
+        "link": ""
+      },
+      "prompt": "Write about the gap between who you are and who you imagine yourself being. One page. Be honest about both versions."
+    },
+    {
+      "day": 22,
+      "poem": {
+        "title": "After Apple-Picking + The Road Not Taken",
+        "author": "Robert Frost",
+        "year": "1914",
+        "desc": "After Apple-Picking is about labor and sleep and something like death — Frost keeps it beautifully ambiguous. The Road Not Taken is the most misread poem in American literature. It is not inspirational. It is ironic. Read it again knowing that.",
+        "link": "https://www.poetryfoundation.org/poets/robert-frost"
+      },
+      "story": {
+        "title": "Hills Like White Elephants",
+        "author": "Ernest Hemingway",
+        "year": "1927",
+        "desc": "A man and woman wait for a train. They discuss an operation. The word abortion is never used. Everything is in what goes unsaid. Hemingway's iceberg theory in its purest form — the story is what's underneath the story.",
+        "link": ""
+      },
+      "essay": {
+        "title": "Politics and the English Language",
+        "author": "George Orwell",
+        "year": "1946",
+        "desc": "Bad writing enables bad thinking, and bad thinking enables political dishonesty. The six rules at the end are the best short guide to prose ever written. Memorize them. Apply them to everything you write from here on.",
+        "link": "https://www.gutenberg.org/ebooks/61515"
+      },
+      "prompt": "Write a scene where two people talk about one thing and mean another. Never let them say what they actually mean."
+    },
+    {
+      "day": 23,
+      "poem": {
+        "title": "Mending Wall + Stopping by Woods on a Snowy Evening",
+        "author": "Robert Frost",
+        "year": "1914",
+        "desc": "Mending Wall questions the fences we build between ourselves — \"Good fences make good neighbours\" is said by the neighbor Frost is questioning. Stopping by Woods is about the pull toward sleep, toward stopping, toward death — and the duty to keep moving.",
+        "link": "https://www.poetryfoundation.org/poets/robert-frost"
+      },
+      "story": {
+        "title": "The Dead",
+        "author": "James Joyce",
+        "year": "1914",
+        "desc": "The final story in Dubliners and one of the greatest short stories ever written. A party, a speech, a walk home, and then a devastating revelation. The ending — snow falling faintly through the universe — will stay with you for years.",
+        "link": "https://www.gutenberg.org/ebooks/2814"
+      },
+      "essay": {
+        "title": "Shooting an Elephant",
+        "author": "George Orwell",
+        "year": "1936",
+        "desc": "Orwell, as a colonial police officer in Burma, is expected to shoot an elephant he knows doesn't need shooting — because the crowd expects it. About power, cowardice, and the machinery of empire. One of the best essays in English.",
+        "link": "https://www.gutenberg.org/ebooks/61515"
+      },
+      "prompt": "Write about a time you did something you knew was wrong because you felt you had no choice. One page. Be honest about both the act and the feeling."
+    },
+    {
+      "day": 24,
+      "poem": {
+        "title": "The Love Song of J. Alfred Prufrock",
+        "author": "T.S. Eliot",
+        "year": "1915",
+        "desc": "A middle-aged man unable to act, unable to speak, unable to eat a peach without paralysis. Modern alienation in its first and most complete form. \"Do I dare to eat a peach?\" is funnier and more devastating than it sounds. Read it until the structure emerges.",
+        "link": "https://www.poetryfoundation.org/poetrymagazine/poems/44212/the-love-song-of-j-alfred-prufrock"
+      },
+      "story": {
+        "title": "Araby",
+        "author": "James Joyce",
+        "year": "1914",
+        "desc": "A boy goes to a bazaar to buy a gift for a girl he loves. He arrives late. The stalls are closing. He realizes something about himself he can't name. The final sentence is six words and it destroys you.",
+        "link": "https://www.gutenberg.org/ebooks/2814"
+      },
+      "essay": {
+        "title": "Why I Write",
+        "author": "George Orwell",
+        "year": "1946",
+        "desc": "Four reasons: sheer egoism, aesthetic enthusiasm, historical impulse, political purpose. Orwell is honest that all four apply to him. Read this as a prompt — which of these four apply to you? In what proportion?",
+        "link": ""
+      },
+      "prompt": "Write about a moment you expected something wonderful and it failed to materialize. Keep the prose quiet. Let the disappointment speak for itself."
+    },
+    {
+      "day": 25,
+      "poem": {
+        "title": "Design + Nothing Gold Can Stay",
+        "author": "Robert Frost",
+        "year": "1922",
+        "desc": "Design is a sonnet about a white spider on a white flower eating a white moth — and what it implies about the universe. Frost's darkest poem. Nothing Gold Can Stay is eight lines about everything that is lost. Read them back to back.",
+        "link": "https://www.poetryfoundation.org/poets/robert-frost"
+      },
+      "story": {
+        "title": "The Bet",
+        "author": "Anton Chekhov",
+        "year": "1889",
+        "desc": "A banker bets a lawyer that he cannot survive 15 years in solitary confinement. The lawyer takes the bet. What happens at the end reverses everything you thought the story was about. Chekhov is the master of the late turn.",
+        "link": "https://www.gutenberg.org/ebooks/1732"
+      },
+      "essay": {
+        "title": "The Death of the Moth",
+        "author": "Virginia Woolf",
+        "year": "1942",
+        "desc": "Woolf watches a moth die on her windowsill and makes it a meditation on the force of life and the force of death. Three pages. One of the most beautiful essays in English. Read it twice — the second read is different from the first.",
+        "link": ""
+      },
+      "prompt": "Describe something dying — an insect, a fire, a season, a relationship. Make it mean something larger without stating what it means."
+    },
+    {
+      "day": 26,
+      "poem": {
+        "title": "Piano + Snake",
+        "author": "D.H. Lawrence",
+        "year": "1918",
+        "desc": "Piano is about a man undone by a childhood song — sentiment he's ashamed of and can't suppress. Snake is Lawrence watching a snake drink from his water trough, the conflict between instinct and education. Both are about what we're taught to feel versus what we actually feel.",
+        "link": "https://www.poetryfoundation.org/poets/dh-lawrence"
+      },
+      "story": {
+        "title": "The Lady with the Dog",
+        "author": "Anton Chekhov",
+        "year": "1899",
+        "desc": "Two people begin an affair at a resort and find they cannot stop loving each other. The most honest love story ever written. Chekhov doesn't judge them. He simply shows them — their joy, their ordinariness, their trapped tenderness.",
+        "link": "https://www.gutenberg.org/ebooks/1732"
+      },
+      "essay": {
+        "title": "A Room of One's Own, Chapter 1",
+        "author": "Virginia Woolf",
+        "year": "1929",
+        "desc": "A woman needs money and a room of her own to write fiction. Woolf builds the argument through a fictionalized day, including being turned away from a library because she's a woman. The first chapter is complete in itself.",
+        "link": "https://www.gutenberg.org/ebooks/5economize"
+      },
+      "prompt": "Write about a feeling you were taught was wrong to have. One page. Don't apologize for it."
+    },
+    {
+      "day": 27,
+      "poem": {
+        "title": "Song of Myself, §39–52 (Finale)",
+        "author": "Walt Whitman",
+        "year": "1855",
+        "desc": "You began this month with Whitman. End with him. The final sections build to the barbaric yawp and then dissolve — Whitman becomes grass, becomes the air under your boot soles. \"I stop somewhere waiting for you.\" Read it knowing how far you've come since §1.",
+        "link": "https://www.gutenberg.org/files/1322/1322-h/1322-h.htm"
+      },
+      "story": {
+        "title": "The Lady or the Tiger?",
+        "author": "Frank Stockton",
+        "year": "1882",
+        "desc": "A princess must decide whether to signal her lover toward a door hiding a tiger or a door hiding another woman. The story ends before the choice is revealed. Stockton refuses to answer. The point is that we already know what we would choose.",
+        "link": "https://www.gutenberg.org/ebooks/75745"
+      },
+      "essay": {
+        "title": "Run Fast, Stand Still",
+        "author": "Ray Bradbury",
+        "year": "1961",
+        "desc": "Bradbury's account of how he learned to write — by working fast, writing from the gut, trusting that the subconscious contains more than the conscious mind can plan. The argument for everything you've been doing this month.",
+        "link": ""
+      },
+      "prompt": "Final prompt for Month 1: Write one page answering this — what did these 27 days teach you? What do you want to say that you couldn't say on Day 1? Don't edit it. Just write it."
+    }
+  ]
+}
